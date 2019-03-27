@@ -9,8 +9,17 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
+				"CoreUObject",
+				"UnrealEd"
+			]
+		},
+		{
+			"Name": "Chapter_10Editor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"AdditionalDependencies": [
 				"Engine",
-				"AIModule"
+				"CoreUObject"
 			]
 		}
 	]

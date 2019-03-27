@@ -9,6 +9,6 @@ public class Chapter_08EditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 
-		ExtraModuleNames.AddRange( new string[] { "Chapter_08Editor" } );
+		ExtraModuleNames.AddRange( new string[] { "Chapter_08" } );
 	}
 }
