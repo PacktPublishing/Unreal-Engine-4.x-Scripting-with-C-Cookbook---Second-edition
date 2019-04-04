@@ -76,7 +76,7 @@ almost every major version of the engine since its public release.
 
 [Unreal Engine 4 Scripting with C++ Cookbook](https://www.packtpub.com/game-development/unreal-engine-4-scripting-c-cookbook ?utm_source=github&utm_medium=repository&utm_campaign=9781785885549 )
 
-[]()
+[Unreal Engine 4 Scripting with C++ Cookbook](https://prod.packtpub.com/in/game-development/unreal-engine-4-scripting-c-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789132878)
 
 []()
 
