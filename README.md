@@ -68,11 +68,6 @@ development experience, most of which has been done using the Unreal Engine. He 
 a community contributor to the engine, having features or bug fixes included in
 almost every major version of the engine since its public release.
 
-****
-0
-
-****
-0
 
 ## Other books by the authors
 []()
