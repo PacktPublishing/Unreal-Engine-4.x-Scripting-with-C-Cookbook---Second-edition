@@ -54,7 +54,7 @@ For over a decade, John has gained extensive hands-on expertise in game developm
 
 John is currently an instructor in residence at Bradley University. Prior to his present ventures, he was an award-winning videographer.
 
-**William Sherif **
+**William Sherif**
 is a C++ programmer with more than eight years' experience in the
 programming world, ranging from game programming to web programming. He
 also worked as a university course instructor (sessional) for seven years. Additionally,
