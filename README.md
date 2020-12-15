@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Unreal Engine 4.x Scripting with C++ Cookbook - Second Edition 
 
 <a href="https://prod.packtpub.com/in/game-development/unreal-engine-4x-scripting-c-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/c/o/cover_12456.png" alt="Unreal Engine 4.x Scripting with C++ Cookbook - Second Edition " height="256px" align="right"></a>
